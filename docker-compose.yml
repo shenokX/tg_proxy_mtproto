@@ -1,0 +1,10 @@
+services:
+  mtproxy:
+    build: .
+    container_name: mtproxy
+    restart: unless-stopped
+    network_mode: host
+    env_file:
+      - mtproxy.env
+    volumes:
+      - ./data:/data
