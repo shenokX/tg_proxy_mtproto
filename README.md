@@ -1,10 +1,11 @@
 # Готовые бесплатные прокси
 
 🔗 Сервер 1
-https://t.me/proxy?server=95.164.123.67&port=443&secret=84233ff8eb08bcb8c5aaffb098989868
+https://t.me/proxy?server=prox1.gotryfix.ru&port=8443&secret=eec8b21327d8bedc054446e69e6f48e0ce70726f78312e676f7472796669782e7275
+
 
 🔗 Сервер 2
-https://t.me/proxy?server=109.248.59.21&port=443&secret=9ec19eefc050d32821c45633d6c81407
+https://t.me/proxy?server=prox.gotryfix.ru&port=8443&secret=eefee05ba57a3b2420c5c3edccb3d7723a70726f782e676f7472796669782e7275
 
 
 # tg_proxy_mtproto
